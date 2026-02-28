@@ -1,5 +1,5 @@
 # Scheme 
-# Exercises from CSE425 book
+# Exercises from Concepts of Programming Language 10th edition book
 
 1. Write a Scheme function that computes the volume of a sphere, given its
 radius.
